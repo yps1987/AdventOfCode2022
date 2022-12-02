@@ -9,7 +9,7 @@ var array;
 var sum = 0;
 
 
-const allFileContents = fs.readFileSync('input_02.txt', 'utf-8');
+const allFileContents = fs.readFileSync('Inout/input_02.txt', 'utf-8');
 allFileContents.split(/\r?\n/).forEach(line =>  {
  console.log(line);
  array = line.split(' ');

@@ -8,7 +8,7 @@ var maxPos = 0;
 sum = 0;
 var maxSum = 0;
 
-const allFileContents = fs.readFileSync('input_01.txt', 'utf-8');
+const allFileContents = fs.readFileSync('Input/input_01.txt', 'utf-8');
 allFileContents.split(/\r?\n/).forEach(line => {
     if (line != '') {
         sum += Number(line);
