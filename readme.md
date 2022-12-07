@@ -1,7 +1,5 @@
 # Advent of Code 2022
-Hey @ll,
-
-these are my codings for the advent of code 2022. It is more or less my first participation on the advent of code. I decied to improve my JS skills a little bit.
+Here are my personal solutions for the advent of code 2022
 
 ## Programming Language
 I choosed JS and I let it run via NodeJS on my laptop.
